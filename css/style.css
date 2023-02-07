@@ -379,7 +379,7 @@ a:active {
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
-        min-height: 845px;
+        min-height: 950px;
     }
 }
 @media (min-width: 551px) {
