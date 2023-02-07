@@ -364,7 +364,7 @@ a:active {
 }
 @media (min-width: 310px) {
     .nav-container{
-        padding: 17px;
+        padding: 15px;
     }
 }
 @media (min-width: 551px) {
