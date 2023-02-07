@@ -382,7 +382,7 @@ a:active {
         min-height: 397px;
     }
     .nav-container{
-        padding: 5px!important;
+        padding: 6px!important;
     }
 }
 @media (min-width: 551px) {
