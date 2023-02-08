@@ -420,6 +420,10 @@ a:active {
         max-width: 500px; 
         color: #d3d2d2 !important;
     }
+    .my-auto{
+        margin-top: auto!important;
+        margin-bottom: auto!important;
+    }
 }
 @media (min-width: 551px) {
     #about {
